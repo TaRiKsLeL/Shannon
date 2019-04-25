@@ -1,0 +1,11 @@
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\bin\Debug\Shenon_Fano.exe.config
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\bin\Debug\Shenon_Fano.exe
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\bin\Debug\Shenon_Fano.pdb
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.csprojAssemblyReference.cache
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.Form1.resources
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.Properties.Resources.resources
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.csproj.GenerateResource.cache
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.exe
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.pdb
+C:\Users\Тарас\source\repos\C#\Shenon_Fano\obj\Debug\Shenon_Fano.ResultForm.resources
